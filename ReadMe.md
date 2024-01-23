@@ -12,8 +12,7 @@ and replace this line in the index.HTML file with your API KEY inserted.
 
 
 
-I choose to use Vanilla Js for this project so the test I wrote must be viewed in the
-browser dev tools "console" by opening the file test.html in the root folder.
+
 
 In a real world setting for Surdex I would be using custom API data from Surdex sources I'm assuming, 
 so the API would be different than it is with google.
