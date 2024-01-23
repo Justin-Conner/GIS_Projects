@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-90.6667, 38.6633]
+        },
+        "properties": {
+          "name": "City A (Chesterfield)",
+          "population": 50000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-90.1994, 38.6270]
+        },
+        "properties": {
+          "name": "City B (St. Louis)",
+          "population": 300000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-90.4966, 38.7881]
+        },
+        "properties": {
+          "name": "City C (St. Charles)",
+          "population": 70000
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-90.2901, 38.6354],
+              [-90.2819, 38.6354],
+              [-90.2819, 38.6487],
+              [-90.2901, 38.6487],
+              [-90.2901, 38.6354]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Forest Park",
+          "area": 1371
+        }
+      }
+    ]
+  }
+  
