@@ -7,7 +7,9 @@ Instrcutions here: https://developers.google.com/maps/third-party-platforms/word
 
 and replace this line in the index.HTML file with your API KEY inserted.
 
-  <script src="https://maps.googleapis.com/maps/api/js?key='your key goes here'&callback=initMap" async defer></script>
+```html
+<script src="https://maps.googleapis.com/maps/api/js?key='your key goes here'&callback=initMap" async defer></script>
+
 
 
 I choose to use Vanilla Js for this project so the test I wrote must be viewed in the
